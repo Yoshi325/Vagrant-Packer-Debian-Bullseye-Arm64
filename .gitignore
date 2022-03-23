@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Vagrant
+.vagrant/
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Project
+cache/
